@@ -71,6 +71,8 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
-.task {
-  border: solid;
+i {
+  height: 25px;
+  line-height: 100px;
+  vertical-align: middle
 }
