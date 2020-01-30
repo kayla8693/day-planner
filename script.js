@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var today = moment().format('dddd, MMMM Do');
+    var today = moment().format('dddd, MMMM Do YYYY');
     var saveBtn = $(".saveBtn");
     var currentDay = $("#currentDay");
     var currentHour = moment().hour();
