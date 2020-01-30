@@ -1,2 +1,6 @@
-# day-planner
-daily planner w/ updated times, dates; differentiates b/w past, present, and future; allows user to add and save tasks + check them off and delete when accomplished
+# Day-Planner
+A simple calendar application that allows the user to save events for each hour of the day. This app features dynamically updated HTML and CSS powered by jQuery, and uses the Moment.js library to work with date and time.
+
+The current day is displayed at the top of the calendar. Standard business hours (9AM - 5PM) are displayed with user input areas for each hour. Each timeblock is color coded to indicate whether it is in the past(grey), present(red), or future(green). Inputing a task into a timeblock and clicking the associated save button stores the task in local storage. The saved task will persist in that timeblock when the page is refreshed.
+
+This application allows anyone with a busy schedule to add important events to a daily planner in order to manage their time effectively.
