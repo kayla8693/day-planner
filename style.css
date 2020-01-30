@@ -73,9 +73,9 @@ textarea{
 
 i {
   height: 25px;
-  vertical-align: middle
+  vertical-align: middle;
 }
 
-.last {
+/* .last {
   margin-bottom: 30px;
-}
+} */
