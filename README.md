@@ -8,5 +8,9 @@ This application allows anyone with a busy schedule to add important events to a
 
 
 <img width="960" alt="Screenshot2020-01-3013 37 46" src="https://user-images.githubusercontent.com/56415756/73485361-95605680-4368-11ea-9641-5170a6ac7ff3.png">
+<br>
+<br>
+<img width="960" alt="Screenshot2020-01-3013 37 58" src="https://user-images.githubusercontent.com/56415756/73485504-cc366c80-4368-11ea-898b-4a33134f3790.png">
+
 
 
